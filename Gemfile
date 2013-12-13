@@ -10,8 +10,9 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', '~> 3.0.3.0'
 gem 'devise', '~> 3.1.1.rc2'
-gem 'paperclip', '~> 2.7'
+gem 'paperclip', '~> 3.0'
 gem 'aws-sdk', '~> 1.6.1'
+gem "cocaine", "~> 0.5.3"
 
 group :development, :test do
 	gem 'sqlite3'
